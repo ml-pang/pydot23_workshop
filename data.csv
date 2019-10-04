@@ -1,0 +1,4 @@
+,symbol,name,histprice,sector,industry,volumeOwned,api timestamp,api open,api close,api volume,url cur,url title,url date,url open,url high,url low,url close,url adj close,url volume
+1,C31.SI,Capital Land,14.075,Consumer Non-Durables,Shoe Manufacturing,1000,02 Oct 2019 16:30,3.509999990463257,3.5,1022100, SGD,CapitaLand ,,3.5000,3.5200,3.4900,3.4800,3.4800,"2,970,200"
+2,S58.SI,S,4.1,Health Care,Medical/Dental Instruments,2000,02 Oct 2019 16:30,4.809999942779541,4.820000171661377,280300, SGD,SATS ,,4.8200,4.8300,4.7900,4.8000,4.8000,"923,700"
+3,AAPL,Apple,7.75,Public Utilities,Water Supply,3000,02 Oct 2019 04:00,224.58,225.0,0, USD,Apple Inc. ,,225.64,225.89,223.89,224.90,224.90,"7,021,215"
