@@ -1,4 +1,0 @@
-,symbol,name,histprice,sector,industry,volumeOwned,api timestamp,api open,api close,api volume,url cur,url title,url date,url open,url high,url low,url close,url adj close,url volume
-1,FB,Facebook,180.0,Consumer Non-Durables,Shoe Manufacturing,1000,02 Oct 2019 23:00,174.92999267578125,174.1199951171875,2621865, USD,"Facebook, Inc. ",,179.55,180.98,178.10,180.45,180.45,"10,476,395"
-2,IBM,IBM,140.0,Health Care,Medical/Dental Instruments,2000,03 Oct 2019 02:00,141.4149932861328,141.80999755859375,495008, USD,International Business Machines ,,142.06,143.06,141.03,142.99,142.99,"2,292,541"
-3,AAPL,Apple,7.75,Public Utilities,Water Supply,3000,02 Oct 2019 23:00,219.77000427246094,218.8251953125,5484208, USD,Apple Inc. ,,225.64,227.49,223.89,227.01,227.01,"32,353,046"
